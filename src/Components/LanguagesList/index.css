@@ -1,0 +1,19 @@
+.language-btn {
+  background-color: transparent;
+  border: 1px solid #db1c48;
+  padding: 7px;
+  border-radius: 15px;
+  font-size: 12px;
+  font-family: 'roboto';
+  color: #db1c48;
+  width: 100px;
+  font-weight: bold;
+}
+.list-items {
+  width: 100px;
+  margin: 10px;
+}
+.active-language-btn {
+  background-color: #db1c48;
+  color: #ffffff;
+}
